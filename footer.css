@@ -50,6 +50,8 @@ image{
 }
 hr{
   margin: 0;
+  border-color: black;
+  border-radius: 10px;
 }
 .logo{
   align-self: flex-start;
